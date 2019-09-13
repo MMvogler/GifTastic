@@ -10,3 +10,6 @@ This project was completed during the 6th week of Vanderbilt's Coding Bootcamp. 
 
 ## Purpose 
 To familiarize myself with APIs 
+
+### Additional Goals
+- CSS Styling 
